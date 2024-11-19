@@ -1,0 +1,1 @@
+## A simple language detection model trained on a Jupyter Notebook and then deployed using FastAPI and Docker
